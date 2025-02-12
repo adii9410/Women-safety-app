@@ -29,19 +29,3 @@ Input Validation:
 𖹭 Ensures valid account numbers and positive values for deposits and withdrawals.
 Prevents withdrawals from accounts with insufficient funds.
 
-How to Use:
-
-𖹭 Clone the repository to your local machine.
-
-𖹭 Open the project in your preferred C# IDE.
-
-𖹭 Run the program to start the Bank Management System.
-
-𖹭 Follow the on-screen instructions to create accounts and manage transactions.
-
-𖹭 Exit the system when finished.
-
-Notes:
-𖹭 The system is designed to handle only up to 5 accounts.
-
-𖹭 Error messages will be displayed if invalid account numbers are entered or if the withdrawal amount exceeds the balance.
